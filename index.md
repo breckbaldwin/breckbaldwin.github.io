@@ -19,6 +19,7 @@ Note that all data and software are released with the goal of reproducabilty. If
 **Date**: 12 noon EDT, August 14, 2025  
 [Full Announcment](https://www.linkedin.com/pulse/presenting-cyber-linguists-nist-thursday-aug-14-12-invite-baldwin-eg4ge): 
 [Quicklink to Join via Zoom](https://nist.zoomgov.com/j/1605507559)
+
 Resources referenced:
 - Paper: [Non-Determinism of "Deterministic" LLM Settings](https://arxiv.org/abs/2408.04667)
 - [Bringing Chomsky to a Grice fight](https://www.linkedin.com/pulse/bringing-chomsky-grice-fight-breck-baldwin-cl5ve/)
@@ -81,4 +82,4 @@ Schemas impact on LLM performance
 ---
 
 © 2025 Breck Baldwin  
-_“Science is the art of setups where reality is the punchline, research starts with a smirk.”_
+_“Science is the art of setups where reality is the punchline. Try to have a sense of humor.”_
