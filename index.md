@@ -17,8 +17,9 @@ Note that all data and software are released with the goal of reproducabilty. If
 **Title**: _Cyber Linguistics: In an era when machines speak, language is no longer just human_  
 **Event**: NIST AI Metrology Colloquium  
 **Date**: 12 noon EDT, August 14, 2025  
-[Full Announcment](https://www.linkedin.com/pulse/presenting-cyber-linguists-nist-thursday-aug-14-12-invite-baldwin-eg4ge): 
-[Quicklink to Join via Zoom](https://nist.zoomgov.com/j/1605507559)
+[Full Announcment](https://www.linkedin.com/pulse/presenting-cyber-linguists-nist-thursday-aug-14-12-invite-baldwin-eg4ge):  
+[Quicklink to Join via Zoom](https://nist.zoomgov.com/j/1605507559):  
+[Slides](https://github.com/breckbaldwin/cyberling/blob/main/presentations/NIST_Aug_14_2025/NIST_August_14_2025.pdf)
 
 Resources referenced:
 - Paper: [Non-Determinism of "Deterministic" LLM Settings](https://arxiv.org/abs/2408.04667)
