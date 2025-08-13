@@ -63,12 +63,14 @@ Resources/writeups broken down by topic--newsletter unless indicated otherwise:
 Small LLM experiments can become big LLM experiments. This is my seedling area. 
 
 Relationship between logprobs and accuracy and determinism. 
-    - Reddit: [Experiment: Can determinism of LLM output be predicted with output probabilities? TL;DR Not that I could find](https://www.reddit.com/r/LocalLLaMA/comments/1k65lqd/experiment_can_determinism_of_llm_output_be/)
-    - Notebook: https://github.com/breckbaldwin/llm-stability/blob/main/experiments/logprob/analysis.ipynb
+
+- Reddit: [Experiment: Can determinism of LLM output be predicted with output probabilities? TL;DR Not that I could find](https://www.reddit.com/r/LocalLLaMA/comments/1k65lqd/experiment_can_determinism_of_llm_output_be/)
+- Notebook: https://github.com/breckbaldwin/llm-stability/blob/main/experiments/logprob/analysis.ipynb
 
 Schemas impact on LLM performance
-    - Reddit: [Impact of schema directed prompts on LLM determinism, accuracy ](https://www.reddit.com/r/LocalLLaMA/comments/1kd68gz/impact_of_schema_directed_prompts_on_llm/)
-    - Notebook: https://github.com/breckbaldwin/llm-stability/blob/main/experiments/json_schema/analysis.ipynb
+
+- Reddit: [Impact of schema directed prompts on LLM determinism, accuracy ](https://www.reddit.com/r/LocalLLaMA/comments/1kd68gz/impact_of_schema_directed_prompts_on_llm/)
+- Notebook: https://github.com/breckbaldwin/llm-stability/blob/main/experiments/json_schema/analysis.ipynb
 
 
 ## Get in Touch
