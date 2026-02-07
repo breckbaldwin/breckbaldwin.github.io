@@ -49,6 +49,9 @@ Resources/writeups broken down by topic--newsletter unless indicated otherwise:
 **Manefesto**:
 - [The Long Road to AGI: Cyber Linguistics](https://www.linkedin.com/pulse/long-road-agi-cyber-linguistics-breck-baldwin-tm36e/)
 
+**Residual Entropy Learning**:
+- [Entropy Budgeting in Language Models](https://www.linkedin.com/pulse/entropy-budgeting-language-models-breck-baldwin-anobe)
+
 **Pragmatics**:
 - [Cyber Linguistics and Gricean Maxims](https://www.linkedin.com/pulse/long-road-agi-cyber-linguistics-gricean-maxims-breck-baldwin-jhnoe/)
 - [Bringing Chomsky to a Grice fight](https://www.linkedin.com/pulse/bringing-chomsky-grice-fight-breck-baldwin-cl5ve/)
